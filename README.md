@@ -361,7 +361,9 @@ python evaluate/logit_lens.py \
 ```
 
 ## Acknowledgements
-This repository builds on several excellent open-source projects. We thank [clemneo/llava-interp](https://github.com/clemneo/llava-interp) for attention and logit-lens analysis references, [embodied-generalist/embodied-generalist](https://github.com/embodied-generalist/embodied-generalist) for the original 3D evaluation and model analysis codebase, and [UMass-Embodied-AGI/3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM) for valuable prior work on 3D multimodal reasoning and evaluation.
+This repository builds on several excellent open-source projects. 
+We thank [llava-interp](https://github.com/clemneo/llava-interp) for attention and logit-lens analysis references, 
+[embodied-generalist](https://github.com/embodied-generalist/embodied-generalist) and [3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM) for the original 3D evaluation and model analysis codebase.
 
 ## Citation
 
