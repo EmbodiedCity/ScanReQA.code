@@ -1,6 +1,12 @@
-# ScanReQA
+# The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models?
 
-[![Code License](https://img.shields.io/badge/Code%20License-CC%20NC_3.0-green.svg)](CODE_LICENSE)
+<div align="center" style="line-height: 1;">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758219" target="_blank"><img alt="Homepage"
+    src="https://img.shields.io/badge/Paper-ACM MM-green.svg"/></a>
+  <a href="https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2" target="_blank"><img alt="Hugging Face"
+    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Open3DVQA%20-ffc107?color=ffc107&logoColor=white"/></a>
+</div>
+
 
 Despite some promising results, the advantages of point clouds over other modalities remain unclear. Moreover, existing 3D benchmarks are insufficient for fairly evaluating the ability of multimodal LLMs to comprehend spatial concepts. To address these challenges, we introduce ScanReQA, a 3D spatial reasoning benchmark encompassing text, vision, and point cloud modalities.
 
