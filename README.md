@@ -1,10 +1,12 @@
 # The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models?
 
 <div align="center" style="line-height: 1;">
-  <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758219" target="_blank"><img alt="Homepage"
-    src="https://img.shields.io/badge/Paper-ACM MM-green.svg"/></a>
-  <a href="https://huggingface.co/datasets/EmbodiedCity/Open3DVQA-v2" target="_blank"><img alt="Hugging Face"
-    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Open3DVQA%20-ffc107?color=ffc107&logoColor=white"/></a>
+  <a href="https://arxiv.org/abs/2504.04540" target="_blank"><img alt="arXiv"
+    src="https://img.shields.io/badge/Paper-arXiv-b31b1b.svg"/></a>
+  <a href="https://huggingface.co/datasets/EmbodiedCity/ScanReQA/tree/main/datasets" target="_blank"><img alt="Hugging Face"
+    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-ScanReQA%20-ffc107?color=ffc107&logoColor=white"/></a>
+  <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="License: CC BY 4.0"
+    src="https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg"/></a>
 </div>
 
 
