@@ -365,13 +365,3 @@ This repository builds on several excellent open-source projects.
 We thank [llava-interp](https://github.com/clemneo/llava-interp) for attention and logit-lens analysis references, 
 [embodied-generalist](https://github.com/embodied-generalist/embodied-generalist) and [3D-LLM](https://github.com/UMass-Embodied-AGI/3D-LLM) for the original 3D evaluation and model analysis codebase.
 
-% ## Citation
-
-% ```bibtex
-% @article{zhang2025point,
-%   title={The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models?},
-%   author={Zhang, Weichen and Peng, Ruiying and Gao, Chen and Fang, Jianjie and Zeng, Xin and Li, Kaiyuan and Wang, Ziyou and Cui, Jinqiang and Wang, Xin and Chen, Xinlei and others},
-%   journal={arXiv preprint arXiv:2504.04540},
-%   year={2025}
-% }
-% ```
